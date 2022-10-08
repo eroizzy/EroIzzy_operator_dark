@@ -1,1 +1,1 @@
-# eroIzzy_operator_dark
+# EroIzzy Operator Dark Theme
